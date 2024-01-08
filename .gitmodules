@@ -1,0 +1,3 @@
+[submodule "Library"]
+	path = Library
+	url = git@github.com:ZahidWazifa/Git_Submodule.git
